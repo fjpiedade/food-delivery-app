@@ -1,5 +1,15 @@
 # Welcome to your Expo app 👋
 
+
+## Food Delivery App
+
+
+![Screenshot 2024-07-08 at 3 42 02 PM](https://github.com/fjpiedade/food-delivery-app/assets/82730685/61c73394-3249-46cc-9299-9180c0f9aa76)
+
+
+![Screenshot 2024-07-09 at 9 29 08 AM](https://github.com/fjpiedade/food-delivery-app/assets/82730685/193bdac0-121f-473e-995c-ae9d46adf1a5)
+
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
